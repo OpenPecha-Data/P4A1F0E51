@@ -1,0 +1,112 @@
+id: 6e1258e87abd49faaabd28c2adec7b18
+annotation_type: index
+revision: '00001'
+annotations:
+  f051d50b86184d41955caaf29053dfc4:
+    work_id: W42EA2E04
+    span:
+      vol: §1
+      start: 0
+      end: 0
+  4651d36c7d5a4eedba292d2eba27cdc7:
+    work_id: W8554285E
+    span:
+      vol: §10
+      start: 0
+      end: 165
+  38470eef31d747b1969fe147a22ad5d0:
+    work_id: W116F1669
+    span:
+      vol: §11
+      start: 0
+      end: 277
+  5bbf051d3b7443f4a7b57829cd1a3ed8:
+    work_id: W700D36D5
+    span:
+      vol: §12
+      start: 0
+      end: 232
+  9bfe8e937cab406b8916fd05ef4a0364:
+    work_id: W065ED161
+    span:
+      vol: §13
+      start: 0
+      end: 507
+  9e953af64273417f83d7ef638d4ac696:
+    work_id: WC34A06BB
+    span:
+      vol: §14
+      start: 0
+      end: 421
+  4d17832951714b3b81ec87aac8c21563:
+    work_id: W496CF249
+    span:
+      vol: §15
+      start: 0
+      end: 76
+  e9dbe504aeff494982dabf57d2ed9a7d:
+    work_id: W50B047C4
+    span:
+      vol: §16
+      start: 0
+      end: 61
+  26d90fa199da4dc6807fb7521d0f3bda:
+    work_id: WC0274C65
+    span:
+      vol: §17
+      start: 0
+      end: 48
+  1f729d73d1c9449c986946ac30a1f765:
+    work_id: W2A446EAA
+    span:
+      vol: §18
+      start: 0
+      end: 11
+  601760843c834666b5a82bfa3c72d790:
+    work_id: W6A54E470
+    span:
+      vol: §2
+      start: 0
+      end: 112
+  a15ce9b00f3c485f8195d0a762ab0640:
+    work_id: W0F988F99
+    span:
+      vol: §3
+      start: 0
+      end: 183
+  dc3bcc2ffca34172b81adde30a90ae6d:
+    work_id: WEAA615E9
+    span:
+      vol: §4
+      start: 0
+      end: 125
+  ba72e40caa654249a5cc766f04f9aaf6:
+    work_id: W20549895
+    span:
+      vol: §5
+      start: 0
+      end: 109
+  e9082dcaaf504ef3952b1289a51d76b7:
+    work_id: WF9D69FF4
+    span:
+      vol: §6
+      start: 0
+      end: 109
+  e8ab4fd9d3a041d59f5f3e290f60736c:
+    work_id: W8AA05E95
+    span:
+      vol: §7
+      start: 0
+      end: 151
+  e635bccd3bc94743913555efe9681f9d:
+    work_id: WF4F84D2D
+    span:
+      vol: §8
+      start: 0
+      end: 119
+  7f18efba3a8245e395c971b02f9f069f:
+    work_id: W80966D16
+    span:
+      vol: §9
+      start: 0
+      end: 92

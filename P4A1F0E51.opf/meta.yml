@@ -1,0 +1,81 @@
+id: P4A1F0E51
+initial_creation_type: input
+source_metadata:
+  title: Nirvikalpapraveśadhāraṇī
+  language: zh
+  volumes:
+    cca92b9adfad4621ba121673cc8f7191:
+      title: §1
+      base_file: §1.txt
+      work_id: W42EA2E04
+    8581a6115db74d719d7ce253ae040a53:
+      title: §10
+      base_file: §10.txt
+      work_id: W8554285E
+    4587c4d5815f446c9661c7f439b1aed1:
+      title: §11
+      base_file: §11.txt
+      work_id: W116F1669
+    f5e2dd2953694fb59101488c4dea8734:
+      title: §12
+      base_file: §12.txt
+      work_id: W700D36D5
+    94865d3d7b0a48c6a1813c2c60daefb6:
+      title: §13
+      base_file: §13.txt
+      work_id: W065ED161
+    58b21714b38e4fd38d7b68b366bf97a3:
+      title: §14
+      base_file: §14.txt
+      work_id: WC34A06BB
+    8e5e6a9a0c594656a1d054fa5171e041:
+      title: §15
+      base_file: §15.txt
+      work_id: W496CF249
+    b9f385788c68408c940168216bd7df9f:
+      title: §16
+      base_file: §16.txt
+      work_id: W50B047C4
+    579bd8879954464ca8e2b8998384a9db:
+      title: §17
+      base_file: §17.txt
+      work_id: WC0274C65
+    ee5f4f4578634e39892b44bf5c9a08f6:
+      title: §18
+      base_file: §18.txt
+      work_id: W2A446EAA
+    78c184e4d89d471a95c9dde8eb829771:
+      title: §2
+      base_file: §2.txt
+      work_id: W6A54E470
+    6deb1d05dfad4a7da27488eb0b36d812:
+      title: §3
+      base_file: §3.txt
+      work_id: W0F988F99
+    4ef7376195594658ab740a422a483e64:
+      title: §4
+      base_file: §4.txt
+      work_id: WEAA615E9
+    e8c2a02e51d24e3186460d9e0ac6fbc1:
+      title: §5
+      base_file: §5.txt
+      work_id: W20549895
+    9a38ae9ad42549cc8871cde02bfbe4c3:
+      title: §6
+      base_file: §6.txt
+      work_id: WF9D69FF4
+    8d6e191df38f446c9e7290857d65f30f:
+      title: §7
+      base_file: §7.txt
+      work_id: W8AA05E95
+    877dbb0db9ef4760b2219f51f37b5f18:
+      title: §8
+      base_file: §8.txt
+      work_id: WF4F84D2D
+    8dd361cf016d4322b4e6feafa6e14fb3:
+      title: §9
+      base_file: §9.txt
+      work_id: W80966D16
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:44:09.237308'
+last_modified_at: '2022-03-01T21:44:09.237315'
